@@ -12,4 +12,3 @@ export default class UserService extends BaseService {
     return this.userRepo.getHello()
   }
 }
-
