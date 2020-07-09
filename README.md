@@ -1,5 +1,5 @@
 # typescript-node-DI
-The repo use Nestjs framework with plugin Fastify. The initialization archirect for project want to use Dependency Injection partern.
+The repo use Nestjs framework with plugin Fastify. The initialization infrastructure for project want to use Dependency Injection partern.
 It's using hygen to auto generate file via command line without having to do it by manualy.
 
 ## Requiment
